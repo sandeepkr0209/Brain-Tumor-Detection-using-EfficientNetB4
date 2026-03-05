@@ -1,0 +1,13 @@
+venv
+index (3).html
+labels.json
+text.txt
+html.txt
+html1.txt
+static
+brain_tumor_model.h5
+brain_tumor_model.keras
+brain_tumor_model1.keras
+brain_tumor_model2.keras
+brain_tumor_pipeline.keras
+Pretrained_model.keras
