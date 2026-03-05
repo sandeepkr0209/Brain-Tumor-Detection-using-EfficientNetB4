@@ -241,7 +241,7 @@ upload_interface.png
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/brain-tumor-detection.git
+git clone https://github.com/sandeepkr0209/Brain-Tumor-Detection-using-EfficientNetB4
 
 cd brain-tumor-detection
 
